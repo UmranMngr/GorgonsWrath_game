@@ -30,16 +30,27 @@ Project Structure
 
 Assets/
 ├── Animation/           # Animation clips and Animator Controllers
+
 ├── Audio/               # Music tracks and sound effect files
+
 ├── Code/                # C# script files (Displayed: image_3045e3.png)
+
 ├── Controller 1/        # Specialized controller logic and configurations
+
 ├── Materials/           # Material files and shader assets
+
 ├── Prefabs/             # Game object prefabs (Displayed: image_3045fe.png)
+
 │   ├── Collectibles/    # Collectible items and pick-up objects
+
 │   └── (Enemy, Player, GameManager, etc.)
+
 ├── Scenes/              # All level and scene files (Displayed: image_304601.png)
+
 ├── Settings/            # Project configuration and settings files
+
 ├── TextMesh Pro/        # UI font assets and text materials
+
 └── TutorialInfo/        # Informational documents and tutorial guides
 
 IntroScene
