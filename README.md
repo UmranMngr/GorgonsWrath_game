@@ -2,28 +2,28 @@
 
 **Gorgon's Wrath** is a 3D atmospheric action-evasion game developed in Unity. You play as Lyra, attempting to escape the ancient forest guardian, the Gorgon, while collecting soul essences.
 
-## 📂 Project Structure
+##  Project Structure
 - **/Code:** Contains core logic classes including `PlayerController`, `PathFollower` (AI), `GameManager`, and `LevelExit`.
 - **/Scenes:** Contains the game flow from `IntroScene` and `MainMenu` to levels (`Level1, 2, 3`) and `ResultScreen`.
 - **/Prefabs:** Includes essential game objects like `Player`, `Enemy`, `GameManager`, `MusicManager`, and `UI_Canvas`.
 - **/Controller 1:** Contains specialized controller setups for `Player` and `Enemy`.
 
-## 🎮 Gameplay Mechanics
+##  Gameplay Mechanics
 * **Dynamic AI:** The `PathFollower` script records player movement and guides the Gorgon.
 * **Flow Control:** Managed by `GameManager` and `TransitionManager` across different scenes.
 * **Collection:** Use the `Collectible` script to gather essences and progress through levels.
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Engine:** Unity
 * **Language:** C#
 * **UI:** TextMesh Pro
 
-## 🚀 Getting Started
+##  Getting Started
 1. Open the project in Unity.
 2. Navigate to `Assets/Scenes` and open `MainMenu` to start the game.
 3. Ensure all prefabs in `Assets/Prefabs` are correctly assigned in the Inspector for your scenes.
 
-## 📝 Credits
+##  Credits
 Developed as part of a Computer Engineering project at Aydın Adnan Menderes University.
 
 Project Structure
