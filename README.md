@@ -55,9 +55,7 @@ Assets/
 
 Demo Video
 
-Uploading My Project (14) - Introscene - Windows, Mac, Linux - Unity 6.2 (6000.2.10F1)  Dx12  2026-06-03 15-49-21.mp4…
-
-
+https://github.com/user-attachments/assets/37ae7398-dcb6-40f2-9a5d-791092d190d0
 
 IntroScene
 <img width="1615" height="819" alt="image" src="https://github.com/user-attachments/assets/63cee279-0ba2-4605-a817-2fc3b562d600" />
