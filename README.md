@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/02b3ad7f-8378-4a49-9ab2-b491ee98e9ba
+
 # 🎮 Gorgon's Wrath
 
 <p align="center">
@@ -96,22 +100,22 @@ Assets/
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/2867eb25-ff78-4849-bf89-f2743957c244" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/7fab27cd-dc97-4a0e-9eda-b540a6dae887" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/2867eb25-ff78-4849-bf89-f2743957c244" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/7fab27cd-dc97-4a0e-9eda-b540a6dae887" />
 </p>
 
 <p align="center">
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/25c7affd-1d85-45b2-bf83-749c4af4373e" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/35391c42-0084-4e22-a0a9-4d4990936279" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/25c7affd-1d85-45b2-bf83-749c4af4373e" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/35391c42-0084-4e22-a0a9-4d4990936279" />
 </p>
 
 <p align="center">
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/89da75dc-17ea-4f03-a80d-169133ff64c1" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/0039b68a-f2a0-477e-a4fd-b3399c96a781" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/89da75dc-17ea-4f03-a80d-169133ff64c1" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/0039b68a-f2a0-477e-a4fd-b3399c96a781" />
 </p>
 
 <p align="center">
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/f465e38d-e015-47a0-b830-33b5c2873866" />
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/f465e38d-e015-47a0-b830-33b5c2873866" />
 </p>
 
 
