@@ -15,20 +15,7 @@
   <img src="https://img.shields.io/badge/Type-3D%20Game-blue"/>
   <img src="https://img.shields.io/badge/UI-TextMesh%20Pro-orange"/>
   <img src="img.shields.io/badge/Platform-PC-lightgrey"/>
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/2867eb25-ff78-4849-bf89-f2743957c244" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/7fab27cd-dc97-4a0e-9eda-b540a6dae887" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/25c7affd-1d85-45b2-bf83-749c4af4373e" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/35391c42-0084-4e22-a0a9-4d4990936279" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/89da75dc-17ea-4f03-a80d-169133ff64c1" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/0039b68a-f2a0-477e-a4fd-b3399c96a781" />
-  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/f465e38d-e015-47a0-b830-33b5c2873866" />
-
-
-
-
-
-
-
+  
 </p>
 
 ---
@@ -109,24 +96,27 @@ Assets/
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63cee279-0ba2-4605-a817-2fc3b562d600" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/55bbe2fa-ec38-48dd-a0e8-5035e4133544" width="45%"/>
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/2867eb25-ff78-4849-bf89-f2743957c244" />
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/7fab27cd-dc97-4a0e-9eda-b540a6dae887" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/912caa29-b485-476a-9747-5ce2c843b0cd" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/b62d5677-6e37-40df-a0d0-033f71f00723" width="45%"/>
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/25c7affd-1d85-45b2-bf83-749c4af4373e" />
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/35391c42-0084-4e22-a0a9-4d4990936279" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/826c15bd-10b3-47a5-b6d2-8d11fa82f3c2" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/9be417ca-e199-4253-ab26-f59d865ae6cd" width="45%"/>
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/89da75dc-17ea-4f03-a80d-169133ff64c1" />
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/0039b68a-f2a0-477e-a4fd-b3399c96a781" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/efd3d405-05f5-4e4b-8267-8175dc330bca" width="45%"/>
+  <img width="275" height="150" alt="image" src="https://github.com/user-attachments/assets/f465e38d-e015-47a0-b830-33b5c2873866" />
 </p>
 
+
+
+  
 ---
 
 ## 🧠 Systems
