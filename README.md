@@ -88,9 +88,11 @@ Assets/
 
 ## 🎬 Gameplay Preview
 
-[<p align="center">
- (https://github.com/user-attachments/assets/02b3ad7f-8378-4a49-9ab2-b491ee98e9ba)
-</p>]
+
+
+https://github.com/user-attachments/assets/96aeaa96-53d6-4b26-9cc5-ad3acae826cb
+
+
 
 ---
 
