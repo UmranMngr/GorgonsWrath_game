@@ -48,7 +48,7 @@ Three handcrafted levels with increasing difficulty and immersive forest environ
 Unity • C# • TextMesh Pro • Animator System • Prefabs Architecture
 
 ---
-
+```markdown
 ## 📁 Project Structure
 
 Assets/
@@ -73,7 +73,7 @@ Assets/
 ├── Settings/
 ├── TextMesh Pro/
 └── TutorialInfo/
-
+```
 ---
 
 ## 🚀 Getting Started
